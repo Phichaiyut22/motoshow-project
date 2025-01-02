@@ -1,16 +1,23 @@
 # motorshow_project
 
-A new Flutter project.
+แอปพลิเคชันนี้เป็นแอป Flutter ที่ออกแบบมาเพื่อแสดงข้อมูลเกี่ยวกับรถยนต์ต่างๆ โดยมีฟีเจอร์หลักดังนี้:
 
-## Getting Started
+หน้าจอแนะนำ (Introduction Screen): เมื่อเปิดแอปขึ้นมา ผู้ใช้จะพบกับหน้าจอแนะนำที่แสดงข้อมูลเกี่ยวกับรถยนต์รุ่นต่างๆ โดยใช้ภาพและข้อความที่จัดรูปแบบอย่างดี ผู้ใช้สามารถเลื่อนดูหน้าจอแนะนำต่างๆ ได้
 
-This project is a starting point for a Flutter application.
+การปรับแต่งธีม: แอปมีการปรับแต่งธีมด้วย Google Fonts เพื่อให้มีการแสดงผลที่สวยงามและทันสมัย
 
-A few resources to get you started if this is your first Flutter project:
+หน้าหลัก (Home Screen): หลังจากดูหน้าจอแนะนำเสร็จสิ้น แอปจะนำผู้ใช้ไปยังหน้าหลักเพื่อใช้งานฟีเจอร์ต่างๆ ของแอปต่อไป
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+การแสดงรายละเอียดการผ่อนรถ: ผู้ใช้สามารถกดเพื่อดูรายละเอียดการผ่อนชำระรถยนต์ในรูปแบบของหน้าต่างป๊อปอัพ (AlertDialog) ที่แสดงข้อความรายละเอียดการผ่อนชำระอย่างชัดเจนและสวยงาม
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+แอปนี้ออกแบบมาเพื่อให้ข้อมูลเกี่ยวกับรถยนต์และรายละเอียดการผ่อนชำระอย่างครบถ้วนและใช้งานง่าย
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f6982de4-5331-48b4-b700-a1b9c190623b)
+![image](https://github.com/user-attachments/assets/9a6048ae-a247-422d-98ac-f4417ad63ba0)
+![image](https://github.com/user-attachments/assets/a573ef94-a08a-4dd6-92c0-cc452a2c395c)
